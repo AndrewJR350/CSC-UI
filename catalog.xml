@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:8080/employee_ws/customer?wsdl" uri="xml-resources/web-service-references/customer/wsdl/localhost_8080/employee_ws/customer.wsdl"/>
+    <system systemId="http://localhost:8080/employee_ws/customer?xsd=1" uri="xml-resources/web-service-references/customer/wsdl/localhost_8080/employee_ws/customer.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/employee_ws/Employee?wsdl" uri="xml-resources/web-service-references/Employee/wsdl/localhost_8080/employee_ws/Employee.wsdl"/>
+    <system systemId="http://localhost:8080/employee_ws/Employee?xsd=1" uri="xml-resources/web-service-references/Employee/wsdl/localhost_8080/employee_ws/Employee.xsd_1.xsd"/>
+    <system systemId="http://localhost:8080/employee_ws/Customer?wsdl" uri="xml-resources/web-service-references/customer/wsdl/localhost_8080/employee_ws/Customer.wsdl"/>
+    <system systemId="http://localhost:8080/employee_ws/Customer?xsd=1" uri="xml-resources/web-service-references/customer/wsdl/localhost_8080/employee_ws/Customer.xsd_1.xsd"/>
+</catalog>
